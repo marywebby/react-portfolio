@@ -1,0 +1,29 @@
+/* * {
+    background-color: rgb(184, 235, 184);
+} */
+.aboutMe {
+    font-size: 40px;
+    color: #333;
+    padding: 200px;
+    align-items: center;
+  }
+  
+.aboutHeader {
+    opacity: 0;
+    color: black;
+    transition: opacity 0.6s ease-in-out;
+}
+
+.aboutHeader.fade-in{
+    opacity: 1;
+}
+
+.aboutText{
+    opacity: 0;
+    color: black;
+    transition: opacity 0.6s ease-in-out;
+  }
+  
+.aboutText.fade-in{
+    opacity: 1;
+}

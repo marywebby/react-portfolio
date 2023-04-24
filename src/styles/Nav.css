@@ -17,6 +17,7 @@ li {
   padding-bottom: 15px;
   letter-spacing: 2px;
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
   justify-content: right;
   align-items: center;
