@@ -31,7 +31,7 @@ export default function Home() {
           alt='me!'
         />
          <div className='hero-overlay'>
-        {showHeader && <h1>Header</h1>}
+        {showHeader && <h1>.</h1>}
         <h1>Mary</h1>
         <p>Webby</p>
       </div>

@@ -1,0 +1,21 @@
+.projectCard {
+    margin-top: 100px
+};
+
+.projectName {
+   display: flex;
+   color: rgb(7, 39, 7)
+};
+
+.githubImage {
+
+};
+
+.projectDescription {
+
+};
+
+.viewGithub{
+    color: gray;
+    border-color: gray;
+};
