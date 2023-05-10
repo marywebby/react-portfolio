@@ -1,6 +1,5 @@
-# text-editor
+# react-portfolio
 
- [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://mit-license.org/)
 
 # Description 📖
 
@@ -20,10 +19,17 @@ This app demonstrates an example of implementing react to display a deployed por
 
 Click through the nacigation links to read, explore and contact me!
 
+![Screen Shot 2023-05-09 at 11 50 11 PM](https://github.com/marywebby/react-portfolio/assets/118230483/b87f0bdc-9c6c-42f3-8279-131548baac04)
+
+Also, click through my links in the footer to checkout my websites! 
+
+![Screen Shot 2023-05-09 at 11 52 04 PM](https://github.com/marywebby/react-portfolio/assets/118230483/abea0ba4-24e9-4096-9c2e-2aa30c2dd587)
+
+
 
 # Licenses 📑    
 
-This project is covered under the MIT license. To learn more about what this means, click the license button at the top.
+This project is covered under no lisence at this time
 
 
 # Contributors & Questons❓
