@@ -44,9 +44,10 @@ export default function Nav({ page, handlePage }) {
               </li>
               <li className={page === "resume" ? "navHover" : ""}>
                 <a
-                  href="#resume"
-                  onClick={(e) => handlePage(e, "resume")}
-                  className="navHover"
+                href='https://drive.google.com/file/d/1qskGUz8CfwT3oGr4uN8XhVaiP1AuTZ_w/view?usp=share_link'
+                target="blank"
+                rel="noopener noreferrer"
+                className="nav-link"
                 >
                   RESUME
                 </a>

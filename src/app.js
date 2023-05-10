@@ -5,7 +5,7 @@ import Home from './components/Home'
 import About from './components/About'
 import Projects from './components/Projects'
 import Contact from './components/Contact'
-import Resume from './components/Resume'
+import Footer from './components/Footer';
 
 
 export default function App() {
@@ -19,9 +19,7 @@ export default function App() {
           return <About />;
         case "projects":
           return <Projects />;
-        case "Resume":
-          return <Resume />;
-        case "Contact":
+        case "contact":
           return <Contact />;
         default:
           return <h1>404</h1>;
@@ -38,6 +36,7 @@ export default function App() {
       <>
         <Nav handlePage={handlePage} />
         <div>{pickPage()}</div>
+        <Footer />
       </>
     );
 };
